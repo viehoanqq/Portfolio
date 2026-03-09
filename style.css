@@ -78,11 +78,11 @@ body {
 .content { flex: 1; padding: 100px 60px; }
 
 .section-title {
-    font-size: 0.65rem; text-transform: uppercase; letter-spacing: 4px;
-    margin-bottom: 40px; color: #ccc;
+    font-size: 1.65rem; text-transform: uppercase; letter-spacing: 4px;
+    margin-bottom: 40px; color: #444444;
 }
 
-.description { font-size: 1.1rem; margin-bottom: 25px; color: #333; }
+.description { font-size: 1.1rem; margin-bottom: 25px; color: #606060; }
 
 /* SOCIAL ROW (Icon row on one line) */
 .social-row-container {
